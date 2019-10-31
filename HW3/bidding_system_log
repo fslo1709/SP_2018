@@ -1,0 +1,9 @@
+receive 1 1
+receive 0 1
+finish 0 1
+receive 0 2
+finish 0 2
+finish 1 1
+receive 0 3
+finish 0 3
+terminate

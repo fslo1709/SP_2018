@@ -1,0 +1,8 @@
+send 1 1
+send 0 1
+finish 0 1
+send 0 2
+finish 0 2
+send 0 3
+finish 1 1
+finish 0 3
